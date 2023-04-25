@@ -1,4 +1,4 @@
-# Analysis of an avergae python token grabber
+# Analysis of an average python token grabber
 
 The following exe is just the average pasted python info stealer that's usually disguised as a game or free cheat for a game.
 
