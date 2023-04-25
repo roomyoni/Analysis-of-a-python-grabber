@@ -2,7 +2,7 @@
 
 The following exe is just the average pasted python info stealer that's usually disguised as a game or free cheat for a game.
 
-### Reversal
+### Reversal For FLVS
 First, I confirmed that the exe was a token grabber to begin with, so I dropped it into [Hatching Triage](https://tria.ge/) so
 I could run it inside of a sandbox.
 
