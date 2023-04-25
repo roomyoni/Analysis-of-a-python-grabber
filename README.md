@@ -26,6 +26,7 @@ I made a very simple script to decode and decompress the encrypted strings in vi
 
 Upon decoding, it turned out to be a discord webhook, which was most likely where the stolen information was being sent to
 <img src="https://cdn.discordapp.com/attachments/829325901984563211/1100423528479731822/image.png">
+
 So, all I had to do was destroy the webhook using https://webhooks.scam.gay/ to prevent other individuals from being infected
 
 In conclusion, please don't run every file you get sent, even if said file is sent by a friend, and always run an untrusted application in a controlled
